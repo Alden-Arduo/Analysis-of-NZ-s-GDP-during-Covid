@@ -18,4 +18,17 @@ Skills:
  - Data analysis
  - Data visualisation
  - APIs
+ - Webscraping
 
+Usefulness:
+ Business owners would find this project useful. This project tells them to always
+ have a plan B as things are shaky during the times of Covid. They should expect
+ their business to not always be filled especially during lockdown, or business
+ owners specialising in export should expect less exports.
+ I would also recommend this project to those who want to put up a tourism
+ business. This project would tell them otherwise due to the decreasing
+ number of tourists.
+ 
+Next Step:
+ Looking at regional effects might produce different results. Additionally, it would be
+ interesting to do some predictions for the year 2021.
